@@ -1,0 +1,11 @@
+create data base with this name
+
+username=SMILICON
+PASSWORD->system
+
+Create table student(fname varchar2(20),lname varchar2(20),year varchar2(10),sic varchar2(20) primary key,phone number(20),email varchar2(30), gender varchar2(10),father varchar2(30),mother varchar2(30),city varchar2(30),state varchar2(30),pin number(20),roomtype varchar2(30),pass varchar2(30),room_comp varchar2(150) ,general_comp varchar2(100),suggs varchar2(120) ,termi varchar2(10), canteen varchar(40) default 'NO', Sdate varchar2(20),edate varchar2(20), sport varchar(40) default 'NO',leavres varchar2(10),roomallot varchar2(10));
+
+Admin table creation-->
+
+
+create table admin(username varchar2(20) , pass varchar2(30), msg varchar2(300) default 'No Messgae')
