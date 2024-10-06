@@ -43,4 +43,4 @@ JavaScript and Bootstrap:
 JavaScript enhances client-side interactivity, providing dynamic content updates without reloading the entire page.
 Bootstrap, a popular front-end framework, is utilized for responsive design, sleek components, and a cohesive visual style.
 
-#Hosted Link ->  https://mohitpatel2170.github.io/Hostel_Management_system/
+#Hosted Link -> https://mohitpatel2170.github.io/Hostel_Management_system/src/main/webapp/index.html
